@@ -1,0 +1,3 @@
+psycopg2_binary==2.9.10
+-e git+https://github.com/pretalx/pretalx.git@81ee5136d127d53202fbd13ed753b95e3fa4bf53#egg=pretalx
+
